@@ -15,7 +15,7 @@ run: `python webscrapt.py`
 
 # Videocast
 you can see video of this script on this link:
-`www.`
+`https://www.aparat.com/v/IgV5Q`
 
 
 # Details
