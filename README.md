@@ -5,7 +5,17 @@ web scraping Turn ratings with python
 
 
 # usage
-for use first install selenium lib with pip for python and next edit username and password into script and run script
+for use first install selenium lib with pip for python and next edit username and password into script and run script:
+ 
+ 
+# Lib and Run
+selenium:`pip install selenium`
+run: `python webscrapt.py`
+
+
+# Videocast
+you can see video of this script on this link:
+`www.`
 
 
 # details
